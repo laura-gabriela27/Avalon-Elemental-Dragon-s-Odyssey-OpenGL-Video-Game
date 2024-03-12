@@ -14,7 +14,8 @@ Harness the elemental forces of water, fire, wind, and earth to overcome challen
 * Compelling Narrative
 Unravel the captivating story of Avalon's quest through emotional depth and unexpected twists. Encounter memorable characters such as fairies, and confront powerful foes as you progress through the game's narrative-driven experience.
 
-![Captură de ecran 2024-02-26 202542](https://github.com/laura-gabriela27/Avalon-Elemental-Dragon-Odyssey-Video-Game-OpenGL/assets/147931608/7560f9d0-826f-4a82-9d4a-2c347b76d804)
+![Captură de ecran 2024-02-27 010409](https://github.com/laura-gabriela27/Avalon-Elemental-Dragon-s-Odyssey-OpenGL-Video-Game/assets/147931608/9a6f7192-2aa3-4f92-8fb3-e387266f27d2)
+
 
 
 ## Realms
